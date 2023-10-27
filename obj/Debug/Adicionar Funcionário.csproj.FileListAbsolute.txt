@@ -1,0 +1,694 @@
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionarios.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.lblCadastrarSenha.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroCargosDadosBancarios.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaFuncionarios.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmID.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\Adicionar Funcionário\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionarios.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.lblCadastrarSenha.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroCargosDadosBancarios.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaFuncionarios.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmID.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\Desktop pim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\Users\User\Desktop\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\Downloads\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Memory.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Memory.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rafaela Ribeiro\Downloads\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Memory.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Memory.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCargosContas.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\PIM.2.2 1)\PIM.2.0 (1)\PIM\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmRelatorioFolhadePagamento.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarFuncionario.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Memory.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Memory.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmEditarCargosadosBanc.resources
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\OneDrive\Área de Trabalho\Faculdade\Pim\TESTAR\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Memory.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Memory.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmRelatorioFolhadePagamento.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmEditarFuncionario.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmEditarCargosadosBanc.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Memory.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Memory.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmRelatorioFolhadePagamento.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmEditarFuncionario.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmEditarCargosadosBanc.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+B:\tcc-parte-rafa\tcc\PIM\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmRelatorioFolhadePagamento.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmEditarFuncionario.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmEditarCargosadosBanc.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Memory.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Memory.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmRelatorioFolhadePagamento.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmEditarFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmEditarCargosadosBanc.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\Rafaela Ribeiro\Downloads\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Memory.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Memory.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmRelatorioFolhadePagamento.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmEditarFuncionario.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmEditarCargosadosBanc.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+B:\PIM-certo-21\GabiPim2\GabiPim\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmRelatorioFolhadePagamento.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmEditarFuncionario.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmLista_de_Endereço.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmListaDependentes.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmEditarCargosadosBanc.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Memory.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Memory.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PIM 22-10-\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmRelatorioFolhadePagamento.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmEditarFuncionario.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmCargos.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.frmEditarSenha.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmFolha_de_pagamento.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmCadCargo.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmAdicionarFuncionario.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmDadosFuncionario.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmEditarDependentes.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmApagarFuncionario.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadSenha.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.frmCadastroDependentes.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmEditarCargosadosBanc.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Apresentacao.FrmPesquisarApagar.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.FrmPesquisarFunc.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\DesktopPim.Login.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\DesktopPim.FrmMenu.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar_Funcionário.Properties.Resources.resources
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe.config
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.exe
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\Adicionar Funcionário.pdb
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\ZstdSharp.dll
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\PIM 22-10-\Adicionar Funcionário\obj\Debug\Adicionar Funcionário.csproj.CopyComplete
